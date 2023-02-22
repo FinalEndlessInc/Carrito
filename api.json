@@ -1,0 +1,86 @@
+[
+    {
+        "precio": 30.00,
+        "id": 1,
+        "title": "Dulce",
+        "thumbnailUrl": "https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools.png"
+    },
+
+    {
+        "precio": 50.00,
+        "id": 2,
+        "title": "Gomitas",
+        "thumbnailUrl": "https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(1).png"
+    },
+
+    {
+        "precio": 45.00,
+        "id": 3,
+        "title": "Acidos",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(2).png"
+    },
+
+    {
+        "precio": 40.00,
+        "id": 4,
+        "title": "Xtremes",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(3).png"
+    },
+
+    {
+        "precio": 20.00,
+        "id": 5,
+        "title": "Caramelos",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(4).png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 6,
+        "title": "Chocolates",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(5).png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 7,
+        "title": "Tamborcitos",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(7).png"
+    },
+
+    {
+        "precio": 20.00,
+        "id": 8,
+        "title": "Choco Real",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(8).png"
+    },
+
+    {
+        "precio": 45.00,
+        "id": 9,
+        "title": "Dulces",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(9).png"
+    },
+
+    {
+        "precio": 80.00,
+        "id": 10,
+        "title": "Variedad",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(10).png"
+    },
+
+    {
+        "precio": 30.00,
+        "id": 11,
+        "title": "Rollitos",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(11).png"
+    },
+
+    {
+        "precio": 100.00,
+        "id": 12,
+        "title": "Cacahuates y Variedad",
+        "thumbnailUrl":"https://zurberusweb.000webhostapp.com/fotos/output-onlinepngtools(12).png"
+    }
+
+]
